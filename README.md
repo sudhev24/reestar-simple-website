@@ -11,7 +11,7 @@ Reestar is a basic static web page designed for showcasing food items and allowi
 ---
 ## How to view
 
-You can access my portfolio website by visiting [] feel free to explore the cintent and get in touch!
+You can access my portfolio website by visiting [https://github.com/sudhev24/reestar-simple-website] feel free to explore the cintent and get in touch!
 
 ## Contributing
 
