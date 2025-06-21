@@ -1,0 +1,48 @@
+.section-one{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.section-one__desc{
+    color: gray;
+}
+.container-one__img{
+    height: 500px;
+    width: 300px;
+}
+.container-one{
+    text-align: center;
+    border: 2px;
+    border-style: solid;
+    border-color: black;
+    display: inline-block;
+    width: 300px;
+    height: 620px;
+}
+.container-one__button{
+    background-color: black;
+    color: white;
+}
+.container{
+    text-align: center;
+    padding-top: 20px;
+}
+.section-two{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+.section-two__button{
+    background-color: yellow;
+    display: inline-block;
+    width: 600px;
+    margin-top: 5px;
+}
+.section-two__form{
+    padding-left: 622px;
+}
+.section-two__title{
+    padding-top: 5px;
+}
